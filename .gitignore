@@ -1,0 +1,7 @@
+DispatchCenter.xcodeproj/xcuserdata/
+DispatchCenter.xcworkspace/
+Pods/
+*.swp
+Podfile.lock
+.DS_Store
+DispatchCenter.xcodeproj/project.xcworkspace/xcuserdata/
